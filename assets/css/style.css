@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #dd5a92;
+  color: #f1eef0;
   text-decoration: none;
 }
 
@@ -404,6 +404,7 @@ section {
 --------------------------------------------------------------*/
 .about .content {
   padding: 30px 0;
+  margin-left: 10px;
 }
 .about .content h3 {
   font-weight: 500;
