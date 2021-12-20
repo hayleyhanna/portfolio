@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #f1eef0;
+  color: #cae2f1;
   text-decoration: none;
 }
 
@@ -454,9 +454,7 @@ section {
 .about .content .count-box a:hover {
   color: #1d3b57;
 }
-.list-unstyled{
-  margin-left:10px;
-}
+
 .about .image {
   background: url("../img/me.jpg") center center no-repeat;
   background-size: cover;
@@ -479,7 +477,7 @@ section {
 # Projects
 --------------------------------------------------------------*/
 .project-link{
-  color:#1d3b57;
+  color:#244e75;
 }
 /*--------------------------------------------------------------
 # Resume
